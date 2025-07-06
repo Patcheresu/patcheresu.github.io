@@ -1,4 +1,6 @@
 # patcheresu.github.io
-Learning github pages
+Learning Github Pages.
 
 aieeeee github sama save me
+
+investigating feasibility of rehosting someone else's projects
